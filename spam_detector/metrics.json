@@ -1,0 +1,1 @@
+{"accuracy": 0.9883720930232558, "precision": 0.975609756097561, "recall": 1.0, "f1_score": 0.9876543209876543, "train_size": 344, "test_size": 86, "confusion_matrix": [[45, 1], [0, 40]]}
